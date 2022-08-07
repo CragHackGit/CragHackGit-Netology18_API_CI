@@ -13,8 +13,8 @@ class MobileBankApiTestV6 {
         .setBaseUri("http://localhost")
         .setBasePath("/api/v1")
         .setPort(9999)
-        .setAccept(ContentType.HTML)
-        .setContentType(ContentType.HTML)
+        .setAccept(ContentType.JSON)
+        .setContentType(ContentType.JSON)
         .log(LogDetail.ALL)
         .build();
 
