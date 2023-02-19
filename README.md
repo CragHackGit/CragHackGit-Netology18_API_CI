@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/5e847o5amuhxpxcm?svg=true)](https://ci.appveyor.com/project/CragHackGit/craghackgit-netology18-api-ci)
+
 # Домашнее задание к занятию «1.2. Тестирование API, CI»
 
 ## Задача №1: настройка CI
